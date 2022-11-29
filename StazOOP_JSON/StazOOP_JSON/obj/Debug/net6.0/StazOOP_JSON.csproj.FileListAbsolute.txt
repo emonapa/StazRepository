@@ -1,0 +1,15 @@
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\bin\Debug\net6.0\StazOOP_JSON.exe
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\bin\Debug\net6.0\StazOOP_JSON.deps.json
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\bin\Debug\net6.0\StazOOP_JSON.runtimeconfig.json
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\bin\Debug\net6.0\StazOOP_JSON.dll
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\bin\Debug\net6.0\StazOOP_JSON.pdb
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.csproj.AssemblyReference.cache
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.AssemblyInfoInputs.cache
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.AssemblyInfo.cs
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.csproj.CoreCompileInputs.cache
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.dll
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\refint\StazOOP_JSON.dll
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.pdb
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\StazOOP_JSON.genruntimeconfig.cache
+C:\Users\mvase\source\repos\StazOOP_JSON\StazOOP_JSON\obj\Debug\net6.0\ref\StazOOP_JSON.dll

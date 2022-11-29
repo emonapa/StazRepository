@@ -1,0 +1,16 @@
+{
+  "Student": [
+    {
+      "fullName": "Vašek Matyáš",
+      "birthdayDate": "5/12/2004",
+      "grade": "4",
+      "subjects": [
+        "math",
+        "biology",
+        "physics",
+        "gender studies"
+      ]
+
+    }
+  ]
+}
