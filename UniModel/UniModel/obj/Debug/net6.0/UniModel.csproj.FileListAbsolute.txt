@@ -1,0 +1,15 @@
+C:\Users\mvase\source\repos\UniModel\UniModel\bin\Debug\net6.0\UniModel.exe
+C:\Users\mvase\source\repos\UniModel\UniModel\bin\Debug\net6.0\UniModel.deps.json
+C:\Users\mvase\source\repos\UniModel\UniModel\bin\Debug\net6.0\UniModel.runtimeconfig.json
+C:\Users\mvase\source\repos\UniModel\UniModel\bin\Debug\net6.0\UniModel.dll
+C:\Users\mvase\source\repos\UniModel\UniModel\bin\Debug\net6.0\UniModel.pdb
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.csproj.AssemblyReference.cache
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.AssemblyInfoInputs.cache
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.AssemblyInfo.cs
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.csproj.CoreCompileInputs.cache
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.dll
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\refint\UniModel.dll
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.pdb
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\UniModel.genruntimeconfig.cache
+C:\Users\mvase\source\repos\UniModel\UniModel\obj\Debug\net6.0\ref\UniModel.dll
